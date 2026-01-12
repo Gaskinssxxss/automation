@@ -1,0 +1,45 @@
+{
+  "cookies": [
+    {
+      "name": "sidcsrf",
+      "value": "13f4235a4d67d6224cdd6e89efea4634",
+      "domain": "opensid.local",
+      "path": "/",
+      "expires": 1768196044.821622,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "ci_session",
+      "value": "gt9e2uhs43ie7ha2163l7c1kmgcd0b29",
+      "domain": "opensid.local",
+      "path": "/",
+      "expires": 1768196044.563495,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sidcsrf",
+      "value": "6f7e08b08511857af144e165f0224bea",
+      "domain": "dev-bayan.ntbprov.go.id",
+      "path": "/",
+      "expires": 1768196615.462007,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "ci_session",
+      "value": "rfecl93uuc6pidhcs8jbs61agjd3cf9j",
+      "domain": "dev-bayan.ntbprov.go.id",
+      "path": "/",
+      "expires": 1768196614.594715,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
